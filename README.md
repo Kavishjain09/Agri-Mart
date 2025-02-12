@@ -1,5 +1,35 @@
 # Agri-Mart
-The Agri-Mart is a cost-effective, user-friendly online grocery platform connecting farmers and customers. Built with open-source, cross-platform technologies, it ensures a seamless shopping experience. This application empowers farmers to enter the online market while providing customers with a one-stop solution for fresh, organic produce.
-It is a group project made by Kavish Dhirawat and Anurag Singh.
-It is an E-commerce B2C Website built using React and Spring Boot through VS Code and Database managed through Mysql.
-You can check out the Presentation Report and code for detailed information.
+Overview
+The Agri-Mart is a web-based application that enables users to purchase fresh produce directly from farmers. It provides a seamless experience for customers to browse, add items to the cart, place orders, and receive order details via email.
+
+Features
+✅ User Authentication – Secure login
+✅ Product Listing – View fresh produce from farmers
+✅ Cart Management – Add, remove, and update items in the cart
+✅ Order Processing – Checkout and receive order confirmation via email
+✅ Secure Payments – Integration with a payment gateway
+✅ Admin Panel – Manage users, products, and orders
+✅ Fully Responsive UI – Works on desktops, tablets, and mobile devices
+
+Technologies Used
+Frontend (React.js)
+HTML, CSS, JavaScript – For structuring and styling
+React.js – Component-based UI
+Axios – API calls to the backend
+Backend (Spring Boot)
+Spring Boot – Java-based backend framework
+Spring Security – Authentication & authorization
+Spring Data JPA & Hibernate – ORM for database interactions
+JWT Authentication – Secure user sessions
+Database
+MySQL – Relational database for storing user data, products, and orders
+ScreenShots*
+WhatsApp Image 2025-02-11 at 14 41 32_e22e6e2a
+
+WhatsApp Image 2025-02-11 at 14 41 40_8702c2c6
+
+WhatsApp Image 2025-02-11 at 14 41 51_b2b7cb00
+
+WhatsApp Image 2025-02-11 at 14 46 37_9ddb4122
+
+WhatsApp Image 2025-02-11 at 14 47 35_015b5588
